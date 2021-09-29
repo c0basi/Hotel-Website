@@ -1,0 +1,86 @@
+[02-Apr-2019 14:43:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php:168
+Stack trace:
+#0 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/index.php(87): DB::getHotelChains()
+#1 {main}
+  thrown in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php on line 168
+[02-Apr-2019 14:44:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php:168
+Stack trace:
+#0 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/index.php(87): DB::getHotelChains()
+#1 {main}
+  thrown in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php on line 168
+[02-Apr-2019 14:44:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php:168
+Stack trace:
+#0 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/index.php(87): DB::getHotelChains()
+#1 {main}
+  thrown in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php on line 168
+[02-Apr-2019 14:44:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php:168
+Stack trace:
+#0 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/index.php(87): DB::getHotelChains()
+#1 {main}
+  thrown in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php on line 168
+[02-Apr-2019 14:46:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php:168
+Stack trace:
+#0 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/index.php(87): DB::getHotelChains()
+#1 {main}
+  thrown in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php on line 168
+[02-Apr-2019 14:48:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php:168
+Stack trace:
+#0 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/index.php(87): DB::getHotelChains()
+#1 {main}
+  thrown in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php on line 168
+[02-Apr-2019 14:48:34 UTC] PHP Notice:  Undefined variable: conn in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php on line 20
+[02-Apr-2019 14:48:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on null in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php:20
+Stack trace:
+#0 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php(167): DB::getCon()
+#1 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/index.php(87): DB::getHotelChains()
+#2 {main}
+  thrown in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php on line 20
+[02-Apr-2019 14:52:02 UTC] PHP Notice:  Undefined variable: conn in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php on line 20
+[02-Apr-2019 14:52:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on null in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php:20
+Stack trace:
+#0 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php(167): DB::getCon()
+#1 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/index.php(87): DB::getHotelChains()
+#2 {main}
+  thrown in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php on line 20
+[02-Apr-2019 14:52:05 UTC] PHP Notice:  Undefined variable: conn in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php on line 20
+[02-Apr-2019 14:52:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on null in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php:20
+Stack trace:
+#0 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php(167): DB::getCon()
+#1 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/index.php(87): DB::getHotelChains()
+#2 {main}
+  thrown in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php on line 20
+[03-Apr-2019 10:49:14 UTC] PHP Notice:  Array to string conversion in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/phpDeleteHotel.php on line 5
+[03-Apr-2019 10:50:31 UTC] PHP Notice:  Array to string conversion in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/phpDeleteHotel.php on line 5
+[03-Apr-2019 10:50:51 UTC] PHP Notice:  Array to string conversion in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/phpDeleteHotel.php on line 5
+[03-Apr-2019 10:52:11 UTC] PHP Notice:  Array to string conversion in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/phpDeleteHotel.php on line 5
+[03-Apr-2019 10:52:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`e_hotel`.`room_amenities`, CONSTRAINT `room_amenities_ibfk_2` FOREIGN KEY (`room_id`) REFERENCES `room` (`id`)) in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php:246
+Stack trace:
+#0 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php(246): PDOStatement->execute(Array)
+#1 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/phpDeleteRoom.php(5): DB::deleteRoom(Array)
+#2 {main}
+  thrown in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php on line 246
+[03-Apr-2019 10:53:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`e_hotel`.`room_amenities`, CONSTRAINT `room_amenities_ibfk_2` FOREIGN KEY (`room_id`) REFERENCES `room` (`id`)) in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php:246
+Stack trace:
+#0 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php(246): PDOStatement->execute(Array)
+#1 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/phpDeleteRoom.php(5): DB::deleteRoom(Array)
+#2 {main}
+  thrown in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php on line 246
+[03-Apr-2019 10:54:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`e_hotel`.`room_amenities`, CONSTRAINT `room_amenities_ibfk_2` FOREIGN KEY (`room_id`) REFERENCES `room` (`id`)) in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php:246
+Stack trace:
+#0 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php(246): PDOStatement->execute(Array)
+#1 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/phpDeleteRoom.php(5): DB::deleteRoom(Array)
+#2 {main}
+  thrown in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php on line 246
+[03-Apr-2019 11:02:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`e_hotel`.`room_amenities`, CONSTRAINT `room_amenities_ibfk_2` FOREIGN KEY (`room_id`) REFERENCES `room` (`id`)) in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php:246
+Stack trace:
+#0 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php(246): PDOStatement->execute(Array)
+#1 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/phpDeleteRoom.php(5): DB::deleteRoom(Array)
+#2 {main}
+  thrown in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php on line 246
+[05-Apr-2019 06:09:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`e_hotel`.`room_amenities`, CONSTRAINT `room_amenities_ibfk_2` FOREIGN KEY (`room_id`) REFERENCES `room` (`id`)) in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php:246
+Stack trace:
+#0 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php(246): PDOStatement->execute(Array)
+#1 /home/qxmpz1tp7fas/public_html/eHotel/eHotel/phpDeleteRoom.php(5): DB::deleteRoom(Array)
+#2 {main}
+  thrown in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/DB.php on line 246
+[05-Apr-2019 17:32:52 UTC] PHP Notice:  Array to string conversion in /home/qxmpz1tp7fas/public_html/eHotel/eHotel/phpDeleteHotel.php on line 5
